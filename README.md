@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rachna Mushuni</h1>
+<h3 align="center">🚀 Passionate Full Stack Developer</h3>
 
-<!--
-**RachnaMushuni/RachnaMushuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">📍 New Delhi</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  🌱 I’m passionate about building modern, responsive web applications.<br/>
+  👩‍💻 Currently sharpening my skills in the MERN stack.<br/>
+  🛠️ Always curious to learn new technologies and tools.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Reach Me At:
+- 📧 Email: [rachnamushuni@gmail.com](mailto:rachnamushuni@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/rachna-mushuni-8017a7222](https://www.linkedin.com/in/rachna-mushuni-8017a7222/)
+
+---
+
+### 🛠️ Tech Stack & Tools I Use:
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 💡 Fun Facts
+- 💬 I love to collaborate and build meaningful projects.
+- 🎯 Focused on writing clean, maintainable code.
+- 🌍 Always excited about solving real-world problems with tech.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Rachna's GitHub Stats"/>
+</p>
+
+---
+
+⭐️ Thanks for visiting my profile!  
+Let’s connect and grow  🚀
