@@ -32,7 +32,7 @@
 
 ---
 
-### 💡 Fun Facts
+### 💡 About Me
 - 💬 I love to collaborate and build meaningful projects.
 - 🎯 Focused on writing clean, maintainable code.
 - 🌍 Always excited about solving real-world problems with tech.
@@ -40,10 +40,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Rachna's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RachnaMushuni&show_icons=true&theme=radical" alt="Rachna's GitHub Stats"/>
 </p>
 
 ---
 
-⭐️ Thanks for visiting my profile!  
-Let’s connect and grow  🚀
+<p align="center">⭐️ Thanks for visiting my profile!  
+Let’s connect and grow  🚀 </p>
