@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rachna Mushuni</h1>
+<h1 align="center">Hi, I'm Rachna Mushuni</h1>
 <h3 align="center">🚀 Passionate Full Stack Developer</h3>
 
 <h3 align="center">📍 New Delhi</h3>
@@ -46,5 +46,4 @@
 
 ---
 
-<p align="center">⭐️ Thanks for visiting my profile!  
-Let’s connect and grow  🚀 </p>
+<p align="center">⭐️ Thanks for visiting my profile!</p>
