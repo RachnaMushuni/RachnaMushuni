@@ -1,11 +1,8 @@
 <h1 align="center">Hi, I'm Rachna Mushuni</h1>
 <h3 align="center">Passionate Full Stack Developer</h3>
 
-<h3 align="center">📍 New Delhi</h3>
-
 <p align="center">
   🌱 I’m passionate about building modern, responsive web applications.<br/>
-  👩‍💻 Currently sharpening my skills in the MERN stack.<br/>
   🛠️ Always curious to learn new technologies and tools.
 </p>
 
@@ -15,6 +12,7 @@
 - 📧 Email: [rachnamushuni@gmail.com](mailto:rachnamushuni@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/rachna-mushuni-8017a7222](https://www.linkedin.com/in/rachna-mushuni-8017a7222/)
 
+<!--
 ---
 
 ### 🛠️ Tech Stack & Tools I Use:
@@ -31,10 +29,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<!--<p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RachnaMushuni&show_icons=true&theme=radical" alt="Rachna's GitHub Stats"/>
-</p> -->
+</p>
 
 ---
 
-<p align="center">⭐️ Thanks for visiting my profile!</p>
+<p align="center">⭐️ Thanks for visiting my profile!</p>   -->
